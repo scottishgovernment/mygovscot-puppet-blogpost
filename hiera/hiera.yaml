@@ -1,0 +1,5 @@
+---
+:backends:
+  - yaml
+:hierarchy:
+  - "%{machine_env}/%{machine_role}"
